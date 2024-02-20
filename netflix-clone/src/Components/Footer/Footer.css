@@ -1,0 +1,11 @@
+.externalWrapper {
+    background-color: black;
+    color: white;
+}
+.logoWrapper {
+    width: 13%;
+    padding-left: 5%;
+}
+.border {
+    padding-inline: 25px;
+}

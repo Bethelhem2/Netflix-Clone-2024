@@ -1,0 +1,25 @@
+.external_wrapper {
+    transition: all 0.5s;
+    background-color: black;
+    color: white;
+    top: 0;
+}
+.internal_wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left_side_wrapper {
+    width: 50%;
+    
+}
+.right_side_wrapper {
+    width: 10%;
+}
+.right_side_wrapper, .left_side_wrapper {
+    cursor: pointer;
+}
+ul {
+  list-style-type: none;
+  align-items: center;
+}
