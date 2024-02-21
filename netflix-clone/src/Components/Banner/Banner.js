@@ -47,7 +47,7 @@ function truncate(str, n) {
             </div>
           </div>
         </div>
-        <div className="banner__fadeBottom" />
+        <div className="banner_fadeBottom" />
       </div>
     </>
   );
