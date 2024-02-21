@@ -1,6 +1,11 @@
 .externalWrapper {
     background-color: black;
-    color: white;
+    color: #C0C0C0;
+   
+   justify-content: center;
+}
+.internalWrapper {
+    max-width: 90%;
 }
 .logoWrapper {
     width: 13%;
@@ -8,4 +13,7 @@
 }
 .border {
     padding-inline: 25px;
+}
+li, .logoWrapper.div, .border, .copy-right {
+    font-size: 13px;
 }
